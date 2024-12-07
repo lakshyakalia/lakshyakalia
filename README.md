@@ -28,11 +28,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/restful%20apis-%2375599C.svg?style=for-the-badge&logo=api&logoColor=white)
 
-🔗 **Connect with Me**:
-- 📧 [lakshyakalia1998@gmail.com](mailto:lakshyakalia1998@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lakshyakalia/)
-- 🌐 [Personal Portfolio](https://lakshyakalia.github.io/)
-
 ---
 
 🧑‍💻 **Projects:**
@@ -41,8 +36,13 @@
 
 ---
 
-## 💬 "Lift and code. The dream life!" 😄
+<p align="center">
+  <i>Let's connect and chat! Open to collaborate on exciting projects.</i>
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate on exciting projects or have any questions!
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/lakshyakalia/" alt="Linkedin"><img src="https://raw.githubusercontent.com/lakshyakalia/lakshyakalia/67803cb8e1e8960a0e5973d4d4e0ac9920e46edf/linkedin-fill.svg"></a>
+    <a href="mailto:lakshyakalia1998@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/lakshyakalia/lakshyakalia/67803cb8e1e8960a0e5973d4d4e0ac9920e46edf/mail-fill.svg"></a>
+    <a href="https://lakshyakalia.github.io" alt="My Personal Portfolio Site"><img src="https://raw.githubusercontent.com/lakshyakalia/lakshyakalia/67803cb8e1e8960a0e5973d4d4e0ac9920e46edf/external-link-line.svg"></a>
+  </p>
+</p>
 
