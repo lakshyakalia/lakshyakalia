@@ -36,7 +36,4 @@ I'm a passionate software engineer who loves building cool projects with modern 
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on exciting projects or have any questions!
 
----
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=lakshyakalia.lakshyakalia)
 
