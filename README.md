@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there! 👋 I'm Lakshya Kalia
 
-<!--
-**lakshyakalia/lakshyakalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer who loves building cool projects with modern technologies. My goal is to make a meaningful impact with code and create innovative solutions.
 
-Here are some ideas to get you started:
+🚀 **Skills & Technologies:**
+- **Languages**: C, C++, JavaScript, TypeScript, Python, Java
+- **Frontend**: Angular, React, HTML, CSS, SCSS, Bootstrap
+- **Backend**: Node.js, Express, Flask
+- **Databases**: MySQL, MongoDB
+- **Tools & Platforms**: Git, Docker, AWS, Firebase
+- **Other**: RESTful APIs, GitHub Actions, CI/CD, Unit Testing, Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Currently Learning**:
+- Spring boot and Hibernate
+- AWS Services (EKS, S3, SQS)
+
+### 🚀 What I Do:
+- Build scalable and user-centric applications with cutting-edge technologies.
+- Work on both frontend and backend, ensuring the best user experience and robust architecture.
+- Contribute to open-source projects and love collaborating with other developers.
+
+🔗 **Connect with Me**:
+- 📧 [lakshyakalia1998@gmail.com](mailto:lakshyakalia1998@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lakshyakalia/)
+- 🌐 [Personal Portfolio](https://lakshyakalia.github.io/)
+
+---
+
+🧑‍💻 **Projects:**
+- 💼 **[Personal Portfolio Website](https://github.com/lakshyakalia/lakshyakalia.github.io/)**: Showcasing my skills, projects, and accomplishments.
+- 🖥️ **[Disney+ Clone](https://github.com/lakshyakalia/disney-plus-clone)**: A replica of Disney+ built with React, Redux, and Firebase.
+
+---
+
+## 💬 "Lift and code. The dream life!" 😄
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate on exciting projects or have any questions!
+
+---
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=lakshyakalia.lakshyakalia)
+
