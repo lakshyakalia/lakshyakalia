@@ -32,7 +32,7 @@
 
 🧑‍💻 **Projects:**
 - 💼 **[Personal Portfolio Website](https://github.com/lakshyakalia/lakshyakalia.github.io/)**: Showcasing my skills, projects, and accomplishments.
-- 🖥️ **[Disney+ Clone](https://github.com/lakshyakalia/disney-plus-clone)**: A replica of Disney+ built with React, Redux, and Firebase.
+- 🖥️ **[Disney+ Clone](https://github.com/lakshyakalia/disney-clone)**: A replica of Disney+ built with React, Redux, and Firebase.
 
 ---
 
