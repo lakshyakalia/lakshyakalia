@@ -1,23 +1,32 @@
-# Hi there! 👋 I'm Lakshya Kalia
+# 👋 Hi, I'm Lakshya!
+👩🏻‍💻 Software engineer who loves building cool projects with modern technologies.<br/>
+👩🏻‍🎓 Studied Applied Computer Science at Concordia University of Montreal, Canada.<br/>
+🎨 Making new and interesting projects that showcase my skills, solve real-world problems, and explore the latest in technology.<br/>
+💭 Currently learning about Spring boot and Hibernate!<br/>
+<br/>
 
-I'm a passionate software engineer who loves building cool projects with modern technologies. My goal is to make a meaningful impact with code and create innovative solutions.
+![](https://github-readme-stats.vercel.app/api?username=lakshyakalia&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-🚀 **Skills & Technologies:**
-- **Languages**: C, C++, JavaScript, TypeScript, Python, Java
-- **Frontend**: Angular, React, HTML, CSS, SCSS, Bootstrap
-- **Backend**: Node.js, Express, Flask
-- **Databases**: MySQL, MongoDB
-- **Tools & Platforms**: Git, Docker, AWS, Firebase
-- **Other**: RESTful APIs, GitHub Actions, CI/CD, Unit Testing, Agile
-
-🌟 **Currently Learning**:
-- Spring boot and Hibernate
-- AWS Services (EKS, S3, SQS)
-
-### 🚀 What I Do:
-- Build scalable and user-centric applications with cutting-edge technologies.
-- Work on both frontend and backend, ensuring the best user experience and robust architecture.
-- Love collaborating with other developers.
+### 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![SCSS](https://img.shields.io/badge/scss-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)<br/>
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F14E32.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)<br/>
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/restful%20apis-%2375599C.svg?style=for-the-badge&logo=api&logoColor=white)
 
 🔗 **Connect with Me**:
 - 📧 [lakshyakalia1998@gmail.com](mailto:lakshyakalia1998@gmail.com)
