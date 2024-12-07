@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Lakshya!
 👩🏻‍💻 Software developer who loves building cool projects with modern technologies.<br/>
-👩🏻‍🎓 Studied Master of Applied Computer Science at [Concordia University](https://www.concordia.ca/) of Montreal, Canada.<br/>
+👩🏻‍🎓 Studied Master of Applied Computer Science at **[Concordia University](https://www.concordia.ca/)** of Montreal, Canada.<br/>
 🎨 Building projects that highlight my skills, solve problems, and explore new technologies.<br/>
-💭 Currently learning about Spring boot and Hibernate!<br/>
+💭 Currently learning about **[Spring boot](https://spring.io/projects/spring-boot)** and **[Hibernate](https://hibernate.org/)**!<br/>
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=lakshyakalia&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
