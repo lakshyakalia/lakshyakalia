@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Lakshya!
+
 👩🏻‍💻 Software developer who loves building cool projects with modern technologies.<br/>
 👩🏻‍🎓 Studied Master of Applied Computer Science at **[Concordia University](https://www.concordia.ca/)** of Montreal, Canada.<br/>
 🎨 Building projects that highlight my skills, solve problems, and explore new technologies.<br/>
@@ -36,6 +37,7 @@
 
 ---
 
+
 <p align="center">
   <i>Let's connect and chat! Open to collaborate on exciting projects.</i>
 
@@ -45,4 +47,10 @@
     <a href="https://lakshyakalia.github.io" alt="My Personal Portfolio Site"><img src="https://raw.githubusercontent.com/lakshyakalia/lakshyakalia/67803cb8e1e8960a0e5973d4d4e0ac9920e46edf/external-link-line.svg"></a>
   </p>
 </p>
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=lakshyakalia&style=for-the-badge)
+
+</div>
 
