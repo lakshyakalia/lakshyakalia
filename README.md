@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lakshya!
-👩🏻‍💻 Software engineer who loves building cool projects with modern technologies.<br/>
-👩🏻‍🎓 Studied Applied Computer Science at Concordia University of Montreal, Canada.<br/>
-🎨 Making new and interesting projects that showcase my skills, solve real-world problems, and explore the latest in technology.<br/>
+👩🏻‍💻 Software developer who loves building cool projects with modern technologies.<br/>
+👩🏻‍🎓 Studied Master of Applied Computer Science at [Concordia University](https://www.concordia.ca/) of Montreal, Canada.<br/>
+🎨 Building projects that highlight my skills, solve problems, and explore new technologies.<br/>
 💭 Currently learning about Spring boot and Hibernate!<br/>
 <br/>
 
