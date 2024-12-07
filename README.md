@@ -17,7 +17,7 @@ I'm a passionate software engineer who loves building cool projects with modern 
 ### 🚀 What I Do:
 - Build scalable and user-centric applications with cutting-edge technologies.
 - Work on both frontend and backend, ensuring the best user experience and robust architecture.
-- Contribute to open-source projects and love collaborating with other developers.
+- Love collaborating with other developers.
 
 🔗 **Connect with Me**:
 - 📧 [lakshyakalia1998@gmail.com](mailto:lakshyakalia1998@gmail.com)
