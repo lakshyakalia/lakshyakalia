@@ -6,7 +6,8 @@
 💭 Currently learning about **[Spring boot](https://spring.io/projects/spring-boot)** and **[Hibernate](https://hibernate.org/)**!<br/>
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=lakshyakalia&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=lakshyakalia&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lakshyakalia&theme=radical&hide_border=false)<br/>
 
 ### 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
