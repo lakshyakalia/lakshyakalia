@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=%20Hi,%20I'm%20Lakshya!&fontAlign=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=%20Hi,%20I'm%20Lakshya!&fontAlign=50&fontAlignY=40)
 
 👩🏻‍💻 Software developer who loves building cool projects with modern technologies.<br/>
 👩🏻‍🎓 Studied Master of Applied Computer Science at **[Concordia University](https://www.concordia.ca/)** of Montreal, Canada.<br/>
@@ -56,5 +56,5 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
