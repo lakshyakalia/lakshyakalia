@@ -35,7 +35,7 @@
 ### 🧑‍💻 Projects:
 - 💼 **[Personal Portfolio Website](https://github.com/lakshyakalia/lakshyakalia.github.io/)**: Showcasing my skills, projects, and accomplishments.
 - 🖥️ **[Disney+ Clone](https://github.com/lakshyakalia/disney-clone)**: A replica of Disney+ built with React, Redux, and Firebase.
-- 🛒 **[Dealmart - E-commerce Website](https://github.com/lakshyakalia/dealmart)** (Upcoming): Building a comprehensive e-commerce platform using Spring Boot, Hibernate, MySQL, and React. It will feature user authentication, product listing, shopping cart, and order management, aiming to deliver a seamless shopping experience.
+- 🛒 **[Dealmart - E-commerce Website](https://github.com/lakshyakalia/dealmart)** (Upcoming Project): Building a comprehensive e-commerce platform using Spring Boot, Hibernate, MySQL, and React. It will feature user authentication, product listing, shopping cart, and order management, aiming to deliver a seamless shopping experience.
 
 ---
 
