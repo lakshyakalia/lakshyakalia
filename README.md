@@ -33,7 +33,7 @@
 ---
 
 ### 🧑‍💻 Projects:
-- 💼 **[Personal Portfolio Website](https://github.com/lakshyakalia/lakshyakalia.github.io/)**: Showcasing my skills, projects, and accomplishments.
+- 💼 **[Personal Portfolio Website](https://lakshyakalia.vercel.app/)**: Showcasing my skills, projects, and accomplishments.
 - 🖥️ **[Whispr](https://github.com/lakshyakalia/whispr)**:  A modern, real-time chat application built using React, Node.js, and Socket.io, designed for seamless messaging with a sleek and intuitive UI.
 - 🛒 **[Dealmart - E-commerce Website](https://github.com/lakshyakalia/dealmart)** (Upcoming Project): Building a comprehensive e-commerce platform using Spring Boot, Hibernate, MySQL, and React. It will feature user authentication, product listing, shopping cart, and order management, aiming to deliver a seamless shopping experience.
 
